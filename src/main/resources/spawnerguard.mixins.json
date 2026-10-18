@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.tenban.spawnerguard.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "MultiPlayerGameModeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
